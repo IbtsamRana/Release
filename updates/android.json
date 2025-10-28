@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "apkUrl": "https://github.com/IbtsamRana/Release/releases/download/v5/app-release.apk",
-  "sha256": "a74b22fd29ae541959800905ee86d1ae8c0bf62a38dfbb7d7f4489d744531a4a",
-  "versionName": "1.0.4",
+  "versionCode": 272,
+  "apkUrl": "https://github.com/IbtsamRana/Release/releases/download/masp/app-release.apk",
+  "sha256": "e38c86703b0304822c9923f0878c38dcf8792064ed0e69fc037b5a0c321fd3e3",
+  "versionName": "2.1.212",
   "changelog": "Bug fixes and performance improvements.",
   "force": false
 }
