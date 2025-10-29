@@ -1,8 +1,8 @@
 {
-  "versionCode": 274,
+  "versionCode": 275,
   "apkUrl": "https://github.com/IbtsamRana/Release/releases/download/masp/app-masp-release.apk",
   "sha256": "f80b8009b785e958b064319d2cb5716ba6aae5b7d785065e79d8e8ee0a8aa116",
-  "versionName": "2.1.214",
+  "versionName": "2.1.215",
   "changelog": "Bug fixes and performance improvements.",
   "force": false
 }
